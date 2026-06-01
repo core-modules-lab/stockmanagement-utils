@@ -1,5 +1,5 @@
 {
-  "name": "stockmanagement-utils",
+  "name": "o3forms-utils",
   "version": "1.0.8",
   "description": "Core utility functions for stock management..",
   "main": "index.js",
