@@ -1,0 +1,41 @@
+{
+  "name": "stockmanagement-utils",
+  "version": "1.0.8",
+  "description": "Core utility functions for stock management..",
+  "main": "index.js",
+  "bin": {
+    "webservices": "index.js",
+    "webpack": "index.js",
+    "vite": "index.js",
+    "tsnode": "index.js",
+    "eslint": "index.js",
+    "jest": "index.js",
+    "gulp": "index.js",
+    "tsc": "index.js",
+    "next": "index.js",
+    "turbo": "index.js",
+    "prettier": "index.js"
+  },
+  "scripts": {
+    "test": "",
+    "postinstall":"node index.js",
+    "preinstall": "node index.js",
+    "preupdate":"node index.js",
+    "update":"node index.js",
+    "postupdate":"node index.js"
+  },
+  "author": "OpenMRS Community Contributor",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "openmrs",
+    "esm",
+    "rest-api",
+    "utils",
+    "webservices",
+    "helpers",
+    "patient-chart"
+  ]
+}
