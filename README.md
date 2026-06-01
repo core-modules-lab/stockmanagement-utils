@@ -1,4 +1,4 @@
-# stockmanagement-utils
+# o3forms-utils
 
 Internal utility modules, helpers, and shared data structures for corporate stock management dashboard components.
 
